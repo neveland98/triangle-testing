@@ -1,0 +1,5 @@
+tr/Triangle.class
+tr/InvalidTriangleException.class
+tr/Main.class
+tr/Point.class
+tr/InvalidPointException.class
